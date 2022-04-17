@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kevin Jacob</h1>
 <h3 align="center">A zealous budding frontend developer from India.</h3>
 
-- 🌱 I’m currently learning **CSS, Javascript, C++**
+- 🌱 I’m currently learning **React, C / C++.**
 
-- 💬 Ask me about **Python, MySQL**
+- 💬 Ask me about **Python, MySQL, HTML, CSS, Javascript, Node.js.**
 
-- 📫 How to reach me **kpjtofficial@gmail.com**
+- 📫 How to reach me **kpjtofficial@gmail.com.**
 
 - ⚡ Fun fact **I make jokes about my insecurities.**
 
