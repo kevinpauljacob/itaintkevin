@@ -10,7 +10,7 @@ Hey, I'm Kevin Paul <br/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/itaintkevin?tab=repositories](https://github.com/itaintkevin?tab=repositories)
 
-- 💬 Ask me about **Typescript, React.js, Next.js , Firebase, Node.js, Express, MongoDB**
+- 💬 Ask me about **Typescript, React.js, Next.js, Firebase, Node.js, Express, MongoDB**
 
 - 📫 How to reach me **kpjtofficial@gmail.com**
 
