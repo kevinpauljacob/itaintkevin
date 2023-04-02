@@ -6,11 +6,11 @@ Hey, I'm Kevin Paul <br/>
 
 </h1>
 
-- 🌱 I’m currently learning **Next.js, Firebase and Typescript**
+- 🌱 I’m currently learning **Solidity and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itaintkevin?tab=repositories](https://github.com/itaintkevin?tab=repositories)
 
-- 💬 Ask me about **Typescript, React.js, Next.js, Firebase, Node.js, Express, MongoDB**
+- 💬 Ask me about **Typescript, React.js, Next.js, Firebase, Node.js, Express, MongoDB, TailwindCSS**
 
 - 📫 How to reach me **kpjtofficial@gmail.com**
 
