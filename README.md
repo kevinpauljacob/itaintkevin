@@ -8,7 +8,7 @@
 </h1>
 
 ### About Me
-🎓 I'm a 3rd-year student at SRMIST Chennai.
+🎓 I'm a 3rd-year student at SRMIST Chennai, Pursuing B.Tech in CSE.
 
 💼 Ex - Full Stack Developer Intern at Codelance Devs [Website](https://codelancedevs.com/).
 
