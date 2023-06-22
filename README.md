@@ -1,21 +1,25 @@
 ![](https://cdn.discordapp.com/attachments/918024642860548126/1121350490777727046/Banner.png)
 
-<h2>
-  Hey, I'm Kevin Paul
+<h1>
+  Hey I'm Kevin Paul
   <br/>
-  Full Stack Developer & Web3 Enthusiast 
-</h2>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=Full+Stack+Developer;Web3+Enthusiast;)](https://git.io/typing-svg)
+</h1>
 
 ### About Me
-🌱 I’m currently learning **GraphQL, Prisma and PostgreSQL**
+🎓 I'm a 3rd-year student at SRMIST Chennai.
 
-👨‍💻 All of my projects are available at [https://github.com/kevinpauljacob?tab=repositories](https://github.com/kevinpauljacob?tab=repositories)
+💼 Ex - Full Stack Developer Intern at Codelance Devs [Website](https://codelancedevs.com/).
 
-💬 Ask me about **Next.js, Typescript, TaiwlindCSS, Redux, Node.js, Express, MongoDB, Firebase, Solidity, Ethers.js, Harhat**
+🌐 Check out my portfolio: [kevinpaul.xyz](https://kevinpaul.xyz/).
 
-📫 How to reach me **kpjtofficial@gmail.com**
+💌 You can reach me at kpjtofficial@gmail.com.
 
-⚡ Fun fact **I make jokes about my insecurities.**
+## 🌱 Currently Learning
+- **GraphQL**: 💡
+- **Prisma**: 🔧
+- **PostgreSQL**: 🐘
 
 [![](https://visitcount.itsvg.in/api?id=itaintkevin&icon=6&color=6)](https://visitcount.itsvg.in)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/itaintkevin) 
