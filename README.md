@@ -8,9 +8,9 @@
 </h1>
 
 ### About Me
-🎓 I'm a 3rd-year student at SRMIST Chennai, Pursuing B.Tech in CSE.
+🎓 Junior at SRMIST Chennai, Pursuing B.Tech in CSE.
 
-💼 Ex - Full Stack Developer Intern at Codelance Devs [Website](https://codelancedevs.com/).
+💼 Ex - Full Stack Developer Intern at [Fundinc](https://www.fundinc.in/) & [Codelance Devs](https://codelancedevs.com/).
 
 🌐 Check out my portfolio: [kevinpaul.xyz](https://kevinpaul.xyz/).
 
